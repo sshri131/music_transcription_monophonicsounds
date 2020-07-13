@@ -9,8 +9,7 @@ import struct
 from scipy.signal import get_window
 from scipy.fftpack import fft, ifft
 
-# Teams can add helper functions
-# Add all helper functions here
+
 
 def TWM_p(pfreq, pmag, f0c):
 	"""
