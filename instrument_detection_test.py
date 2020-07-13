@@ -205,9 +205,7 @@ def Instrument_identify(wavefile):
 
 if __name__ == "__main__":
 
-	#   Instructions
-	#   ------------
-	#   Do not edit this function.
+
 
 	# code for checking output for single audio file
 	path = os.getcwd()
